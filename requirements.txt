@@ -7,4 +7,5 @@ bip-utils==2.9.0
 notion-client==2.2.1
 base58
 httpx
+mnemonic
 
