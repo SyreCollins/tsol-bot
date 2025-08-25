@@ -1,6 +1,6 @@
 solana
 solders
-python-telegram-bot==20.7
+python-telegram-bot==21.4
 requests
 python-dotenv==1.0.0
 bip-utils==2.9.0
@@ -8,4 +8,5 @@ notion-client==2.2.1
 base58
 httpx
 mnemonic
+
 
